@@ -17,7 +17,7 @@
 | Device       | Inference Time | FPS  |
 |-------------|---------------|------|
 | **RTX 4090** | 0.012 sec     | 83   |
-| **RTX 3070 Ti** | TBD       | TBD  |
+| **GTX 1650** | 0.013 sec       | 76 |
 | **CPU-Only** | 0.07 sec      | 14   |
 
 ## Key Features
